@@ -217,7 +217,7 @@
       "KC_TRNS"
     ],
     [
-      "KC_MUTE",
+      "KC_MS_BTN1",
       "KC_ESC",
       "KC_F1",
       "KC_F2",
@@ -231,7 +231,7 @@
       "KC_F10",
       "KC_F11",
       "KC_F12",
-      "KC_INS",
+      "KC_WWW_HOME",
       "KC_DEL",
       "MACRO(1)",
       "KC_GRV",
@@ -280,7 +280,7 @@
       "KC_SCLN",
       "KC_QUOT",
       "KC_ENT",
-      "KC_HOME",
+      "KC_END",
       "MACRO(4)",
       "KC_LSFT",
       "KC_NO",
@@ -417,7 +417,7 @@
     [
       ["MACRO(9)", "KC_TAB"],
       ["RGB_VAD", "RGB_VAI"],
-      ["KC_VOLD", "KC_VOLU"],
+      ["MACRO(9)", "KC_TAB"],
       ["RGB_VAD", "RGB_VAI"]
     ]
   ]
