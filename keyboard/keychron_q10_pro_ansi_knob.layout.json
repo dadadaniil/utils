@@ -415,9 +415,9 @@
   ],
   "encoders": [
     [
-      ["MACRO(9)", "KC_TAB"],
+      ["KC_PGUP", "KC_PGDN"],
       ["RGB_VAD", "RGB_VAI"],
-      ["MACRO(9)", "KC_TAB"],
+      ["KC_PGUP", "KC_PGDN"],
       ["RGB_VAD", "RGB_VAI"]
     ]
   ]
